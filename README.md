@@ -2,9 +2,9 @@
 landing page readme
 
 ## tools Used 
-.html
-.css
-.js 
+- html
+- css
+- js 
 
 ## functions 
 - navbar
